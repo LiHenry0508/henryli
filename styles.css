@@ -57,6 +57,7 @@ header nav li{
   font-size: 18px;
 }
 header nav li a{
+  color: black;
   text-decoration: none;
   padding: 6px 15px;
   border-radius: 20px;
