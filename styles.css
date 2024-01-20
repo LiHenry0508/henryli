@@ -63,6 +63,9 @@ header nav li a{
   border-radius: 20px;
   transition: all .2s;
 }
+header nav li a:link{
+  color: black;
+}
 header nav li a:visited{
   color: black;
 }
